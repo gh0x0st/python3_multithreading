@@ -143,7 +143,7 @@ To incorporate multithreading in this example, we're going to create tasks by fi
 import threading        # https://docs.python.org/3/library/threading.html
 import queue            # https://docs.python.org/3/library/queue.html
 import ipaddress        # https://docs.python.org/3/library/ipaddress.html
-import subprocess        # https://docs.python.org/3/library/subprocess.html
+import subprocess       # https://docs.python.org/3/library/subprocess.html
 import time             # https://docs.python.org/3/library/time.html
 
 
@@ -206,7 +206,6 @@ Keep in mind that using this socket connect method, it's going to attempt a comp
 import threading        # https://docs.python.org/3/library/threading.html
 import queue            # https://docs.python.org/3/library/queue.html
 import time             # https://docs.python.org/3/library/time.html
-import multiprocessing  # https://docs.python.org/3/library/multiprocessing.html
 import socket           # https://docs.python.org/3/library/socket.html
 
 
@@ -269,4 +268,4 @@ What we went through barely touches the surface and there are many other techniq
 ## Resources
 * https://docs.python.org/3/library/threading.html
 * https://docs.python.org/3/library/queue.html
-* https://docs.python.org/3/library/threading.html
+* https://docs.python.org/3/library/socket.html
