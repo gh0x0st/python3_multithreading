@@ -3,7 +3,6 @@
 import threading        # https://docs.python.org/3/library/threading.html
 import queue            # https://docs.python.org/3/library/queue.html
 import time             # https://docs.python.org/3/library/time.html
-import multiprocessing  # https://docs.python.org/3/library/multiprocessing.html
 import socket           # https://docs.python.org/3/library/socket.html
 
 
