@@ -3,6 +3,12 @@ As you start to get more exposure with penetration testing, you're going to find
 
 To help myself overcome the barrier of time, I decided to do a deep dive to get more comfortable with using python. As efficient as this language is, eventually I wanted to learn how to incorporate multithreading to make my instructions run even faster. 
 
+## Disclaimer
+
+This repository and the data provided has been created purely for the purposes of academic research and for the development of effective security techniques and is not intended to be used to attack systems except where explicitly authorized. It is your responsibility to obey all applicable local, state and federal laws. 
+
+Project maintainers assume no liability and are not responsible for any misuse or damage caused by the data therein.
+
 ## Sections:
 
 1. What is a worker function?
